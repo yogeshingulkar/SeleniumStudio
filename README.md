@@ -1,7 +1,7 @@
-# SeleniumStudio
-Java and Selenium learning repository with automation scripts and practice programs.
 
 # Selenium Automation Practice 
+Java and Selenium learning repository with automation scripts and practice programs.
+SeleniumStudio ⭐
 
 This repository contains **hands-on Selenium WebDriver automation practice using Java**.  
 It is created for **learning Selenium concepts, building automation scripts, and interview preparation**.
