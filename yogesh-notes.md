@@ -2,7 +2,7 @@
 Selenium Qspiders on eclipse with JAVA
 
 
-![SeleniumMain](seleniumQSPIDERS/Images/Selenium%20tree.jpeg)
+![SeleniumMain](https://i.postimg.cc/RFHMTrrT/image.png)
 
 - The **WebDriver** interface is child of **SerchContext** interface. It has 13 methods as follows:-
     1.  [get()](#get)
